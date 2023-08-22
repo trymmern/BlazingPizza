@@ -4,15 +4,21 @@ public class Address
 {
     public int Id { get; set; }
 
+    [Required, MaxLength(100)]
     public string Name { get; set; }
 
+    [Required(ErrorMessage = "We do need to know your address if you are to receive any pizzas"), MaxLength(100)]
     public string Line1 { get; set; }
 
+    [MaxLength(100)]
     public string Line2 { get; set; }
 
+    [Required(ErrorMessage = "How do you expect to receive the pizza if we don't even know what city you're in?"), MaxLength(50)]
     public string City { get; set; }
 
+    [Required, MaxLength(50)]
     public string Region { get; set; }
 
+    [Required, MaxLength(4)]
     public string PostalCode { get; set; }
 }
