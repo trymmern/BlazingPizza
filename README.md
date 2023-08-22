@@ -1,0 +1,2 @@
+# BlazingPizza
+Blazor tutorial project
