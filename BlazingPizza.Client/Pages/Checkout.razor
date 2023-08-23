@@ -2,6 +2,7 @@
 @inject OrderState OrderState
 @inject OrdersClient OrdersClient
 @inject NavigationManager NavigationManager
+@inject IJSRuntime JS
 @attribute [Authorize]
 
 <PageTitle>Blazing Pizza - Checkout</PageTitle>
@@ -41,5 +42,26 @@
         NavigationManager.NavigateTo($"myorders/{newOrderId}");
 
         _isSubmitting = false;
+    }
+    
+    protected override void OnInitialized()
+    {
+        _ = RequestNotificationSubscriptionAsync();
+    }
+
+    async Task RequestNotificationSubscriptionAsync()
+    {
+        var sub = await JS.InvokeAsync<NotificationSubscription>("blazorNotifications.requestSubscription");
+        if (sub != null)
+        {
+            try
+            {
+                await OrdersClient.SubscribeToNotifications(sub);
+            }
+            catch (AccessTokenNotAvailableException e)
+            {
+                e.Redirect();
+            }
+        }
     }
 }

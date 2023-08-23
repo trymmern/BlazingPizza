@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+Wm1s91xm/9gqWGGiahjTm5wl67SDSH2qOTVPTn/gbg=",
+  "Hash": "bglLt/fZZ/963AvVyJEdMwmallfRyx5nTp86lZGMwPA=",
   "Source": "BlazingPizza.Server",
   "BasePath": "_content/BlazingPizza.Server",
   "Mode": "Default",
@@ -8733,6 +8733,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/manifest.json",
+      "SourceId": "BlazingPizza.Client",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "manifest.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/manifest.json"
+    },
+    {
+      "Identity": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/service-worker.js",
+      "SourceId": "BlazingPizza.Client",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "service-worker.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/service-worker.js"
     },
     {
       "Identity": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.ComponentsLibrary/wwwroot/deliveryMap.js",
