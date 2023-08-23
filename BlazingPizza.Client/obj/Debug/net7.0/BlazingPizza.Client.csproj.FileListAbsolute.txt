@@ -852,3 +852,11 @@
 /Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/obj/Debug/net7.0/build-gz/CgVklqzL.gz
 /Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/obj/Debug/net7.0/build-gz/udw1IU9S.gz
 /Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/obj/Debug/net7.0/build-gz/+63xEeRO.gz
+/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/_framework/BlazingComponents.dll
+/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/_framework/BlazingComponents.pdb
+/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/_framework/BlazingComponents.dll.gz
+/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/_framework/BlazingComponents.pdb.gz
+/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/BlazingComponents.dll
+/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/BlazingComponents.pdb
+/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/obj/Debug/net7.0/build-gz/7hD7KAFk.gz
+/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/obj/Debug/net7.0/build-gz/I8Zv861V.gz

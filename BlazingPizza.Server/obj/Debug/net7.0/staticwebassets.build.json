@@ -1,11 +1,22 @@
 {
   "Version": 1,
-  "Hash": "0XGkuTejokUXGmbx3ZUAm+gpNLidCdhlXcQN+8J7I6o=",
+  "Hash": "+Wm1s91xm/9gqWGGiahjTm5wl67SDSH2qOTVPTn/gbg=",
   "Source": "BlazingPizza.Server",
   "BasePath": "_content/BlazingPizza.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/BlazingComponents.csproj",
+      "Version": 1,
+      "Source": "BlazingComponents",
+      "GetPublishAssetsTargets": "",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectStaticWebAssetsV2",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    },
     {
       "Identity": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/BlazingPizza.Client.csproj",
       "Version": 2,
@@ -30,6 +41,13 @@
     }
   ],
   "DiscoveryPatterns": [
+    {
+      "Name": "BlazingComponents/wwwroot",
+      "Source": "BlazingComponents",
+      "ContentRoot": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/wwwroot/",
+      "BasePath": "_content/BlazingComponents",
+      "Pattern": "**"
+    },
     {
       "Name": "BlazingPizza.Client/wwwroot",
       "Source": "BlazingPizza.Client",
@@ -1082,6 +1100,74 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/trymrt/.nuget/packages/microsoft.aspnetcore.identity.ui/7.0.0/staticwebassets/V5/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/wwwroot/background.png",
+      "SourceId": "BlazingComponents",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/wwwroot/",
+      "BasePath": "_content/BlazingComponents",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/wwwroot/background.png"
+    },
+    {
+      "Identity": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/wwwroot/exampleJsInterop.js",
+      "SourceId": "BlazingComponents",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/wwwroot/",
+      "BasePath": "_content/BlazingComponents",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/wwwroot/exampleJsInterop.js"
+    },
+    {
+      "Identity": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/_framework/BlazingComponents.dll",
+      "SourceId": "BlazingPizza.Client",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/BlazingComponents.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/bin/Debug/netstandard2.0/BlazingComponents.dll"
+    },
+    {
+      "Identity": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/_framework/BlazingComponents.pdb",
+      "SourceId": "BlazingPizza.Client",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/BlazingComponents.pdb",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "symbol",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/bin/Debug/netstandard2.0/BlazingComponents.pdb"
     },
     {
       "Identity": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/_framework/BlazingPizza.Client.dll",
@@ -5198,6 +5284,23 @@
       "OriginalItemSpec": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/_framework/System.Windows.dll"
     },
     {
+      "Identity": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/obj/Debug/net7.0/build-gz/7hD7KAFk.gz",
+      "SourceId": "BlazingPizza.Client",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/BlazingComponents.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/_framework/BlazingComponents.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/_framework/BlazingComponents.dll"
+    },
+    {
       "Identity": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/obj/Debug/net7.0/build-gz/7hk1v7iw.gz",
       "SourceId": "BlazingPizza.Client",
       "SourceType": "Project",
@@ -6301,6 +6404,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/_framework/WindowsBase.dll"
+    },
+    {
+      "Identity": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/obj/Debug/net7.0/build-gz/I8Zv861V.gz",
+      "SourceId": "BlazingPizza.Client",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/BlazingComponents.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/_framework/BlazingComponents.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/_framework/BlazingComponents.pdb"
     },
     {
       "Identity": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/obj/Debug/net7.0/build-gz/i95pGG+I.gz",

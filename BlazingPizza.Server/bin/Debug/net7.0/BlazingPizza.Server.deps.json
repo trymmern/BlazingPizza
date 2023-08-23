@@ -778,8 +778,18 @@
           "System.Text.Encodings.Web": "7.0.0"
         }
       },
+      "BlazingComponents/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "7.0.0",
+          "Microsoft.AspNetCore.Components.Web": "7.0.0"
+        },
+        "runtime": {
+          "BlazingComponents.dll": {}
+        }
+      },
       "BlazingPizza.Client/1.0.0": {
         "dependencies": {
+          "BlazingComponents": "1.0.0",
           "BlazingPizza.ComponentsLibrary": "1.0.0",
           "BlazingPizza.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "7.0.0",
@@ -1389,6 +1399,11 @@
       "sha512": "sha512-DaGSsVqKsn/ia6RG8frjwmJonfos0srquhw09TlT8KRw5I43E+4gs+/bZj4K0vShJ5H9imCuXupb4RmS+dBy3w==",
       "path": "system.text.json/7.0.0",
       "hashPath": "system.text.json.7.0.0.nupkg.sha512"
+    },
+    "BlazingComponents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "BlazingPizza.Client/1.0.0": {
       "type": "project",

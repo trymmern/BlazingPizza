@@ -107,3 +107,5 @@
 /Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Server/obj/Debug/net7.0/BlazingPizza.Server.pdb
 /Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Server/obj/Debug/net7.0/BlazingPizza.Server.genruntimeconfig.cache
 /Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Server/obj/Debug/net7.0/ref/BlazingPizza.Server.dll
+/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Server/bin/Debug/net7.0/BlazingComponents.dll
+/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Server/bin/Debug/net7.0/BlazingComponents.pdb
