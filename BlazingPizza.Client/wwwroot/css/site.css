@@ -58,7 +58,7 @@ form {
 .main {
     flex-grow: 1;
     overflow-y: auto;
-    background: #1b1e21;
+    background: linear-gradient(rgba(0,0,0,0) 40%, rgba(0,0,0,0.4) 80%);
     padding: 1.5rem !important;
 }
 
@@ -666,7 +666,7 @@ input[type=range] {
         flex: 1;
         margin: 1rem;
         border: 1px solid #ddd;
-        background: rgba(255, 255, 255, 0.84);
+        background: rgba(255,255,255,0.3);
         padding: 1.25rem 1rem;
     }
 

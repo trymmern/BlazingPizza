@@ -1,5 +1,5 @@
 @page "/MyOrders"
-@inject HttpClient HttpClient
+@inject OrdersClient OrdersClient
 
 <PageTitle>Blazing Pizza - My Orders</PageTitle>
 
@@ -44,6 +44,6 @@
 
     protected override async Task OnParametersSetAsync()
     {
-        _ordersWithStatus = await HttpClient.GetFromJsonAsync<List<OrderWithStatus>>("orders");
+        _ordersWithStatus = await OrdersClient.GetOrders();
     }
 }

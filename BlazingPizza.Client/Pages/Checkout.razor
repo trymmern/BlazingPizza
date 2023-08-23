@@ -1,7 +1,8 @@
 @page "/checkout"
 @inject OrderState OrderState
-@inject HttpClient HttpClient
+@inject OrdersClient OrdersClient
 @inject NavigationManager NavigationManager
+@attribute [Authorize]
 
 <PageTitle>Blazing Pizza - Checkout</PageTitle>
 
@@ -19,7 +20,7 @@
                 </div>
             </div>
             
-        <button class="checkout-button btn btn-warning @(_isSubmitting ? "disabled": "")" type="submit" @onclick="@(() => _isSubmitting = true)">
+        <button class="checkout-button btn btn-warning @(_isSubmitting ? "disabled": "")" type="submit">
             Place order
         </button>
         
@@ -33,10 +34,12 @@
     async Task PlaceOrder()
     {
         if (_isSubmitting) return;
+        _isSubmitting = true;
         
-        var res = await HttpClient.PostAsJsonAsync("orders", OrderState.Order);
-        var newOrderId = await res.Content.ReadFromJsonAsync<int>();
+        var newOrderId = await OrdersClient.PlaceOrder(OrderState.Order);
         OrderState.ResetOrder();
         NavigationManager.NavigateTo($"myorders/{newOrderId}");
+
+        _isSubmitting = false;
     }
 }

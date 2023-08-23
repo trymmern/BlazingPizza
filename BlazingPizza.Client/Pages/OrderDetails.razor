@@ -1,7 +1,7 @@
 @page "/myorders/{orderId:int}"
 
 @using System.Threading
-@inject HttpClient HttpClient
+@inject OrdersClient OrdersClient
 @implements IDisposable
 
 <div class="main">
@@ -56,7 +56,7 @@
             try
             {
                 _invalidOrder = false;
-                _orderWithStatus = await HttpClient.GetFromJsonAsync<OrderWithStatus>($"orders/{OrderId}");
+                _orderWithStatus = await OrdersClient.GetOrder(OrderId);
                 StateHasChanged();
 
                 if (_orderWithStatus.IsDelivered)

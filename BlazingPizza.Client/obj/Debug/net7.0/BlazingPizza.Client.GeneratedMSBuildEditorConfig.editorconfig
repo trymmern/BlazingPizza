@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Pages/Authentication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Pages/Checkout.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hlY2tvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,12 +52,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbmZpZ3VyZVBpenphRGlhbG9nLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0xvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Shared/OrderReview.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL09yZGVyUmV2aWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1JlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/_Imports.razor]
