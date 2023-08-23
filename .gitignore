@@ -337,3 +337,7 @@ ASALocalRun/
 
 # Visual Studio Code folder
 .vscode/
+
+#SqlLite db files
+pizza.db-shm
+pizza.db-wal
