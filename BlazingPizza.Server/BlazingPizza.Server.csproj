@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>$(TargetFrameworkVersion)</TargetFramework>
 		<ImplicitUsings>true</ImplicitUsings>
+		<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 
   <ItemGroup>
@@ -21,5 +22,6 @@
     <ProjectReference Include="..\BlazingPizza.Client\BlazingPizza.Client.csproj" />
     <ProjectReference Include="..\BlazingPizza.Shared\BlazingPizza.Shared.csproj" />
   </ItemGroup>
+
 
 </Project>

@@ -1,123 +1,123 @@
 {
   "Files": [
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/obj/Debug/net7.0/build-gz/BGC1QMMQ.gz",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/obj/Debug/net7.0/build-gz/BGC1QMMQ.gz",
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/css/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-300.woff",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-300.woff",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-300.woff"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-300.woff2",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-300.woff2",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-300.woff2"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-500.woff",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-500.woff",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-500.woff"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-500.woff2",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-500.woff2",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-500.woff2"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-700.woff",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-700.woff",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-700.woff"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-700.woff2",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-700.woff2",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-700.woff2"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-regular.woff",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-regular.woff",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-regular.woff"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-regular.woff2",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/css/font/quicksand-v8-latin-regular.woff2",
       "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-regular.woff2"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/css/font/quicksand.css",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/css/font/quicksand.css",
       "PackagePath": "staticwebassets/css/font/quicksand.css"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/css/site.css",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/img/bike.svg",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/img/bike.svg",
       "PackagePath": "staticwebassets/img/bike.svg"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/img/icon-512.png",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/img/icon-512.png",
       "PackagePath": "staticwebassets/img/icon-512.png"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/img/logo.svg",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/img/logo.svg",
       "PackagePath": "staticwebassets/img/logo.svg"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/img/pizza-slice.svg",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/img/pizza-slice.svg",
       "PackagePath": "staticwebassets/img/pizza-slice.svg"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/img/pizzas/bacon.jpg",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/img/pizzas/bacon.jpg",
       "PackagePath": "staticwebassets/img/pizzas/bacon.jpg"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/img/pizzas/brit.jpg",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/img/pizzas/brit.jpg",
       "PackagePath": "staticwebassets/img/pizzas/brit.jpg"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/img/pizzas/cheese.jpg",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/img/pizzas/cheese.jpg",
       "PackagePath": "staticwebassets/img/pizzas/cheese.jpg"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/img/pizzas/margherita.jpg",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/img/pizzas/margherita.jpg",
       "PackagePath": "staticwebassets/img/pizzas/margherita.jpg"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/img/pizzas/meaty.jpg",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/img/pizzas/meaty.jpg",
       "PackagePath": "staticwebassets/img/pizzas/meaty.jpg"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/img/pizzas/mushroom.jpg",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/img/pizzas/mushroom.jpg",
       "PackagePath": "staticwebassets/img/pizzas/mushroom.jpg"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/img/pizzas/pepperoni.jpg",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/img/pizzas/pepperoni.jpg",
       "PackagePath": "staticwebassets/img/pizzas/pepperoni.jpg"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/img/pizzas/salad.jpg",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/img/pizzas/salad.jpg",
       "PackagePath": "staticwebassets/img/pizzas/salad.jpg"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/img/user.svg",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/img/user.svg",
       "PackagePath": "staticwebassets/img/user.svg"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/index.html",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/manifest.json",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/manifest.json",
       "PackagePath": "staticwebassets/manifest.json"
     },
     {
-      "Id": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/wwwroot/service-worker.js",
+      "Id": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/wwwroot/service-worker.js",
       "PackagePath": "staticwebassets/service-worker.js"
     },
     {

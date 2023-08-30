@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazingPizza.Client
+build_property.RootNamespace = BlazingPizza.Client
+build_property.ProjectDir = /Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Pages/Authentication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Pages/Checkout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hlY2tvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Pages/MyOrders.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTXlPcmRlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Pages/OrderDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3JkZXJEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Shared/AddressEditor.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0FkZHJlc3NFZGl0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Shared/ConfiguredPizzaItem.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbmZpZ3VyZWRQaXp6YUl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Shared/ConfigurePizzaDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbmZpZ3VyZVBpenphRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0xvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Shared/OrderReview.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL09yZGVyUmV2aWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1JlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

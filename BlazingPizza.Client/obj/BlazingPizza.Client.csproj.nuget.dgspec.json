@@ -1,20 +1,19 @@
 {
   "format": 1,
   "restore": {
-    "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/BlazingPizza.Client.csproj": {}
+    "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/BlazingPizza.Client.csproj": {}
   },
   "projects": {
-    "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/BlazingComponents.csproj": {
+    "/Users/trymrt/dev/blazing-pizza/BlazingComponents/BlazingComponents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/BlazingComponents.csproj",
+        "projectUniqueName": "/Users/trymrt/dev/blazing-pizza/BlazingComponents/BlazingComponents.csproj",
         "projectName": "BlazingComponents",
-        "projectPath": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/BlazingComponents.csproj",
+        "projectPath": "/Users/trymrt/dev/blazing-pizza/BlazingComponents/BlazingComponents.csproj",
         "packagesPath": "/Users/trymrt/.nuget/packages/",
-        "outputPath": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/obj/",
+        "outputPath": "/Users/trymrt/dev/blazing-pizza/BlazingComponents/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/trymrt/dev/BlazingPizza/NuGet.Config",
           "/Users/trymrt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
@@ -69,17 +68,16 @@
         }
       }
     },
-    "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/BlazingPizza.Client.csproj": {
+    "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/BlazingPizza.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/BlazingPizza.Client.csproj",
+        "projectUniqueName": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/BlazingPizza.Client.csproj",
         "projectName": "BlazingPizza.Client",
-        "projectPath": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/BlazingPizza.Client.csproj",
+        "projectPath": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/BlazingPizza.Client.csproj",
         "packagesPath": "/Users/trymrt/.nuget/packages/",
-        "outputPath": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Client/obj/",
+        "outputPath": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/trymrt/dev/BlazingPizza/NuGet.Config",
           "/Users/trymrt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
@@ -92,14 +90,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/BlazingComponents.csproj": {
-                "projectPath": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingComponents/BlazingComponents.csproj"
+              "/Users/trymrt/dev/blazing-pizza/BlazingComponents/BlazingComponents.csproj": {
+                "projectPath": "/Users/trymrt/dev/blazing-pizza/BlazingComponents/BlazingComponents.csproj"
               },
-              "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj": {
-                "projectPath": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj"
+              "/Users/trymrt/dev/blazing-pizza/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj": {
+                "projectPath": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj"
               },
-              "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Shared/BlazingPizza.Shared.csproj": {
-                "projectPath": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Shared/BlazingPizza.Shared.csproj"
+              "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Shared/BlazingPizza.Shared.csproj": {
+                "projectPath": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Shared/BlazingPizza.Shared.csproj"
               }
             }
           }
@@ -162,17 +160,16 @@
         }
       }
     },
-    "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj": {
+    "/Users/trymrt/dev/blazing-pizza/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj",
+        "projectUniqueName": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj",
         "projectName": "BlazingPizza.ComponentsLibrary",
-        "projectPath": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj",
+        "projectPath": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj",
         "packagesPath": "/Users/trymrt/.nuget/packages/",
-        "outputPath": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.ComponentsLibrary/obj/",
+        "outputPath": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.ComponentsLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/trymrt/dev/BlazingPizza/NuGet.Config",
           "/Users/trymrt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
@@ -226,17 +223,16 @@
         }
       }
     },
-    "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Shared/BlazingPizza.Shared.csproj": {
+    "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Shared/BlazingPizza.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Shared/BlazingPizza.Shared.csproj",
+        "projectUniqueName": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Shared/BlazingPizza.Shared.csproj",
         "projectName": "BlazingPizza.Shared",
-        "projectPath": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Shared/BlazingPizza.Shared.csproj",
+        "projectPath": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Shared/BlazingPizza.Shared.csproj",
         "packagesPath": "/Users/trymrt/.nuget/packages/",
-        "outputPath": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Shared/obj/",
+        "outputPath": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/trymrt/dev/BlazingPizza/NuGet.Config",
           "/Users/trymrt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
@@ -249,8 +245,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj": {
-                "projectPath": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj"
+              "/Users/trymrt/dev/blazing-pizza/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj": {
+                "projectPath": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj"
               }
             }
           }

@@ -1,0 +1,11 @@
+﻿services:
+  blazingpizza.server:
+    image: blazing-pizza
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    environment:
+      - ASPNETCORE_URLS=http://*:80
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "8080:80"

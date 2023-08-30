@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pxz6KcjrtQQDYx++igmn8Tqrl2MHdmEZtFM0ODCMpKuwJqnhJww8KKtb5x646ZVhiBdtMfFAjHy1bVod+BsMPw==",
+  "dgSpecHash": "xa3xnBETXXdOXJkgbUad8ZSoeKJsox91YnZB4ClxmKLaoHYotMxCZg/l+MDRS7hza2ZUXVHuWlbdrVNU7SC6bw==",
   "success": true,
-  "projectFilePath": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Server/BlazingPizza.Server.csproj",
+  "projectFilePath": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Server/BlazingPizza.Server.csproj",
   "expectedPackageFiles": [
     "/Users/trymrt/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/Users/trymrt/.nuget/packages/duende.identityserver/6.0.4/duende.identityserver.6.0.4.nupkg.sha512",

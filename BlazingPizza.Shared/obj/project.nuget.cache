@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jF4h/2Qv+ptB8j+DlLfTuO6YYUqHR5gSmLz0pUrbR46B7tVgFAlBCr/lHYZGXiqlDF30/a7fxWjRUpxfeAg6Rg==",
+  "dgSpecHash": "6xxuSY6n6NQq2mPIl2x0TvzXr39lf1Ri14Vwk2u95lmahjPv6FhLOi2piyj4x23bkh/iE8qToroCYoeeHsh2pw==",
   "success": true,
-  "projectFilePath": "/Users/trymrt/dev/BlazingPizza/save-points/00-get-started/BlazingPizza.Shared/BlazingPizza.Shared.csproj",
+  "projectFilePath": "/Users/trymrt/dev/blazing-pizza/BlazingPizza.Shared/BlazingPizza.Shared.csproj",
   "expectedPackageFiles": [
     "/Users/trymrt/.nuget/packages/microsoft.aspnetcore.authorization/7.0.0/microsoft.aspnetcore.authorization.7.0.0.nupkg.sha512",
     "/Users/trymrt/.nuget/packages/microsoft.aspnetcore.components/7.0.0/microsoft.aspnetcore.components.7.0.0.nupkg.sha512",
